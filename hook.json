@@ -1,0 +1,18 @@
+{
+  "Products": [
+    {
+      "id": 5,
+      "name": "Samsung Galaxy J2 Prime",
+      "price": "400",
+      "decscription": "aaf",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy S5",
+      "price": "300",
+      "decscription": "d",
+      "status": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Opple F1S",
+      "price": "300",
+      "status": false
+    },
+    {
+      "name": "Samsung Galaxy J2 Prime",
+      "price": "300",
+      "status": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Nokia",
+      "price": "100",
+      "status": true
+    },
+    {
+      "name": "65454",
+      "price": "400",
+      "decscription": "dada",
+      "status": true,
+      "id": 6
+    }
+  ]
+}

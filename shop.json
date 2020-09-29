@@ -1,0 +1,1374 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/220522/samsung-galaxy-note-20-ultra-5g-051920-101934-600x600.jpg",
+        "name": "Galaxy Note 20 Ultra",
+        "price": 300,
+        "ratting": 4,
+        "details": {
+          "decscription": "Sau Galaxy Note 20 thì Galaxy Note 20 Ultra là phiên bản tiếp theo cao cấp hơn thuộc dòng Note 20 Series của Samsung, với nhiều thay đổi từ cụm camera hỗ trợ lấy nét laser AF cùng ống kính góc rộng mới, màn hình tràn viền lên đến 6.9 inch chắc chắn sẽ là chiếc điện thoại được săn đón của fan yêu thích công nghệ.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng 100.000₫ mua online tại Web thành viên BachhoaXANH.com, áp dụng tại Tp.HCM, Tp.Nha Trang, Tp.Phan Thiết và một số khu vực khác",
+          "involve": [
+            {
+              "id": "11",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/7924/148703/de-dan-dien-thoai-osmia-pop006-banh-trang-den-1-1-600x600.jpg",
+                "name": "Đế dán điện thoại OSMIA POP006 Banh Trắng đen",
+                "price": "25.000₫ ",
+                "ratting": 2,
+                "details": {
+                  "decscription": "Thiết kế đơn giản, cứng cáp, Gắn lên mặt sau điện thoại (bề mặt trơn láng), Dùng làm giá đỡ xem phim, móc ngón tay khi cầm, treo điện thoại..."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            },
+            {
+              "id": "12",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/88622/iphone-8-1-300x300.jpg",
+                "name": "Siêu Phẩm Mới",
+                "price": "30.000.000₫",
+                "ratting": 3,
+                "details": {
+                  "decscription": "Màn hình 4.7, Camera sau 12 MP, Pin Đang cập nhật"
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/216174/samsung-galaxy-a31-055720-045750-600x600.jpg",
+        "name": "Samsung Galaxy A31",
+        "price": 400,
+        "ratting": 2,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "13",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/219314/samsung-galaxy-a21s-055620-045659-600x600.jpg",
+                "name": "Samsung Galaxy A21s",
+                "price": "5.390.000₫",
+                "ratting": 2,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/213591/oppo-reno3-trang-600x600-600x600.jpg",
+        "name": "OPPO Reno3",
+        "price": 500,
+        "ratting": 4,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "14",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/198150/oppo-find-x2-blue-600x600-600x600.jpg",
+                "name": "OPPO Find X2",
+                "price": "19.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Tiếp nối thành công vang dội của thế hệ Find X, OPPO chính thức ra mắt Find X2 với những đường nét thanh lịch từ thiết kế phần cứng cho đến trải nghiệm phần mềm, hứa hẹn một vẻ đẹp hoàn hảo, một sức mạnh xứng tầm."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "4",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/220654/oppo-a92-tim-600x600-1-2-600x600.jpg",
+        "name": "OPPO A92",
+        "price": 400,
+        "ratting": 2,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "15",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/219895/realme-6-8gb-600x600-600x600.jpg",
+                "name": "Realme 6 (8GB/128GB)",
+                "price": "6.490.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "OPPO A92 là mẫu smartphone tầm trung vừa mới được OPPO ra mắt đầu tháng 5/2020. Chiếc điện thoại gây ấn tượng với thiết kế màn hình khoét lỗ tràn viền, cụm 4 camera ấn tượng và được bán với mức giá vô cùng phải chăng."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "5",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/210653/iphone-11-pro-max-256gb-black-600x600.jpg",
+        "name": "IPhone 11 Pro Max",
+        "price": 600,
+        "ratting": 5,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "16",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "6",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/210644/iphone-11-128gb-green-600x600.jpg",
+        "name": "IPhone 11 128GB",
+        "price": 700,
+        "ratting": 2,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "16",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "7",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/225734/iphone-8-plus-128gb-082720-052716-600x600.jpg",
+        "name": "IPhone 8 Plus",
+        "price": 600,
+        "ratting": 3,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "16",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "8",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/87837/iphone-7-128gb-hh-600x600.jpg",
+        "name": "IPhone 7 128GB",
+        "price": 600,
+        "ratting": 4,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "16",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "9",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/87837/iphone-7-128gb-hh-600x600.jpg",
+        "name": "IPhone 7 128GB",
+        "price": 600,
+        "ratting": 4,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "16",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "10",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/87837/iphone-7-128gb-hh-600x600.jpg",
+        "name": "IPhone 7 128GB",
+        "price": 600,
+        "ratting": 4,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "16",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "11",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/87837/iphone-7-128gb-hh-600x600.jpg",
+        "name": "IPhone 7 128GB",
+        "price": 600,
+        "ratting": 4,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "16",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "12",
+      "product": {
+        "images": "https://cdn.tgdd.vn/Products/Images/42/87837/iphone-7-128gb-hh-600x600.jpg",
+        "name": "IPhone 7 128GB",
+        "price": 600,
+        "ratting": 4,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "16",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    }
+  ],
+  "product_hot": [
+    {
+      "id": "30",
+      "product_hot": {
+        "new": "https://media.tenor.com/images/82f340f84cb0554b5b49691c5be2cb67/tenor.gif",
+        "images": "https://cdn.tgdd.vn/Products/Images/42/228531/vsmart-aris-pro-181720-121748-600x600.jpg",
+        "name": "Vsmart Aris Pro",
+        "price": 450,
+        "ratting": 4,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "40",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "31",
+      "product_hot": {
+        "new": "https://media.tenor.com/images/82f340f84cb0554b5b49691c5be2cb67/tenor.gif",
+        "images": "https://cdn.tgdd.vn/Products/Images/42/226436/vsmart-live-4-241720-071719-600x600.jpg",
+        "name": "Vsmart Live 4 4GB",
+        "price": 150,
+        "ratting": 5,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "41",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "32",
+      "product_hot": {
+        "new": "https://media.tenor.com/images/82f340f84cb0554b5b49691c5be2cb67/tenor.gif",
+        "images": "https://cdn.tgdd.vn/Products/Images/42/225535/oneplus-nord-5g-600x600-1-600x600.jpg",
+        "name": "OnePlus Nord 5G",
+        "price": 600,
+        "ratting": 2,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "42",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "33",
+      "product_hot": {
+        "new": "https://media.tenor.com/images/82f340f84cb0554b5b49691c5be2cb67/tenor.gif",
+        "images": "https://cdn.tgdd.vn/Products/Images/42/227295/oppo-a53-2020-blue-600x600-600x600.jpg",
+        "name": "OPPO A53",
+        "price": 190,
+        "ratting": 5,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "43",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "34",
+      "product_hot": {
+        "new": "https://media.tenor.com/images/82f340f84cb0554b5b49691c5be2cb67/tenor.gif",
+        "images": "https://cdn.tgdd.vn/Products/Images/42/228376/vivo-y20s-xanh-600x600-600x600.jpg",
+        "name": "Vivo Y20s",
+        "price": 190,
+        "ratting": 1,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "43",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "35",
+      "product_hot": {
+        "new": "https://media.tenor.com/images/82f340f84cb0554b5b49691c5be2cb67/tenor.gif",
+        "images": "https://cdn.tgdd.vn/Products/Images/42/227006/energizer-e100-600-600x600.jpg",
+        "name": "Energizer E100",
+        "price": 20,
+        "ratting": 1,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "43",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    }
+  ],
+  "product_discount": [
+    {
+      "id": "60",
+      "product_discount": {
+        "new": "https://muabanruoungoai.com.vn/public/upload/Khuy%E1%BA%BFn%20m%E1%BA%A1i.gif",
+        "images": "https://cdn.nguyenkimmall.com/images/thumbnails/180/180/detailed/629/10044939-dien-thoai-samsung-galaxy-a71-xanh-1.jpg",
+        "name": "SAMSUNG GALAXY A71",
+        "price": 350,
+        "ratting": 2,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "70",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "61",
+      "product_discount": {
+        "new": "https://muabanruoungoai.com.vn/public/upload/Khuy%E1%BA%BFn%20m%E1%BA%A1i.gif",
+        "images": "https://cdn.nguyenkimmall.com/images/thumbnails/180/180/detailed/652/10045707-dien-thoai-samsung-galaxy-a21s-3g-32gb-den-1_4zqn-75.jpg",
+        "name": "SAMSUNG GALAXY A21",
+        "price": 200,
+        "ratting": 2,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "71",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "62",
+      "product_discount": {
+        "new": "https://muabanruoungoai.com.vn/public/upload/Khuy%E1%BA%BFn%20m%E1%BA%A1i.gif",
+        "images": "https://cdn.nguyenkimmall.com/images/thumbnails/180/180/detailed/610/10043515-dien-thoai-iphone-11-red-128gb-mwm32vn-a-1_epq2-ra.jpg",
+        "name": "IPhone 11 128GB",
+        "price": 900,
+        "ratting": 3,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "72",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "63",
+      "product_discount": {
+        "new": "https://muabanruoungoai.com.vn/public/upload/Khuy%E1%BA%BFn%20m%E1%BA%A1i.gif",
+        "images": "https://cdn.tgdd.vn/Products/Images/42/214638/oneplus-8-pro-1-200x200.jpg",
+        "name": "OnePlus 8 Pro",
+        "price": 1000,
+        "ratting": 5,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "73",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "64",
+      "product_discount": {
+        "new": "https://muabanruoungoai.com.vn/public/upload/Khuy%E1%BA%BFn%20m%E1%BA%A1i.gif",
+        "images": "https://cdn.nguyenkimmall.com/images/thumbnails/180/180/detailed/649/10045584-dien-thoai-oppo-reno-3-den-1.jpg",
+        "name": "OPPO RENO3 ĐEN",
+        "price": 300,
+        "ratting": 2,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "73",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "id": "65",
+      "product_discount": {
+        "new": "https://muabanruoungoai.com.vn/public/upload/Khuy%E1%BA%BFn%20m%E1%BA%A1i.gif",
+        "images": "https://cdn.nguyenkimmall.com/images/thumbnails/180/180/detailed/648/10045583-dien-thoai-oppo-a12-cph2077-4gb-64gb-xanh-1.jpg",
+        "name": "OPPO A12",
+        "price": 150,
+        "ratting": 3,
+        "details": {
+          "decscription": "Đặc điểm nổi bật của Samsung Galaxy A21s (6GB/64GB), Bộ sản phẩm chuẩn: Sạc, Sách hướng dẫn, Hộp, Cây lấy sim, Cáp Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn.",
+          "configuration": [
+            {
+              "name": "Màn hình: 6.9"
+            },
+            {
+              "name": "Quad HD+ (2K+)"
+            },
+            {
+              "name": "Chip: Exynos 990 8 nhân"
+            },
+            {
+              "name": "RAM: 8 GB"
+            },
+            {
+              "name": "Camera sau: Chính 108 MP & Phụ 12 MP, 12 MP"
+            },
+            {
+              "name": "cảm biến Laser AF Camera trước: 10 MP"
+            },
+            {
+              "name": "Pin: 4500 mAh, có sạc nhanh"
+            }
+          ],
+          "specialOffers": "Tặng suất mua Đồng hồ Samsung Active 2 giảm đến 35%, Watch 3 giảm 25% (không kèm KM khác), Tặng 2 suất mua Đồng hồ thời trang giảm 40% (không áp dụng thêm khuyến mãi khác), Phụ kiện mua kèm giảm 20% (không áp dụng phụ kiện hãng, không áp dụng đồng thời KM khác)",
+          "involve": [
+            {
+              "id": "73",
+              "product": {
+                "images": "https://cdn.tgdd.vn/Products/Images/42/210655/iphone-11-pro-256gb-black-600x600.jpg",
+                "name": "iPhone 11 Pro 256GB",
+                "price": "34.990.000₫",
+                "ratting": 4,
+                "details": {
+                  "decscription": "Samsung Galaxy A21s là chiếc điện thoại tầm trung mới của Samsung, mang trong mình có thiết kế màn hình nốt ruồi thời thượng, cùng cụm 4 camera sau độ phân giải lên đến 48 MP hỗ trợ nhiều tính năng chụp ảnh hấp dẫn."
+                }
+              },
+              "status": false,
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "status": false,
+      "quantity": 1
+    }
+  ],
+  "menus": [
+    {
+      "to": "/",
+      "name": "Trang Chủ",
+      "exact": true
+    },
+    {
+      "to": "/product-list",
+      "name": "Sản Phẩm",
+      "exact": false
+    },
+    {
+      "to": "/contact",
+      "name": "Liên Hệ",
+      "exact": false
+    },
+    {
+      "to": "/login",
+      "name": "Đăng Nhập",
+      "exact": false
+    }
+  ],
+  "footer": [
+    {
+      "icone": 1,
+      "name": "Nguyễn Nhựt Trường"
+    },
+    {
+      "icone": 2,
+      "name": "Nguyễn Nhựt Trường",
+      "phone": "0987635214",
+      "decscription": "",
+      "address": ""
+    },
+    {
+      "icone": 3,
+      "name": "",
+      "decscription": "trang web chuyên bán các thiết bị di động với giá rẻ, free ship trên toàn quốc",
+      "address": "Tổ 16 Long Thạnh 1 - Long Giang - Chợ Mới - An Giang",
+      "phone": ""
+    }
+  ],
+  "customer": [
+  ]
+}
