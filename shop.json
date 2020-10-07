@@ -1342,11 +1342,6 @@
       "to": "/contact",
       "name": "Liên Hệ",
       "exact": false
-    },
-    {
-      "to": "/login",
-      "name": "Đăng Nhập",
-      "exact": false
     }
   ],
   "footer": [
@@ -1370,5 +1365,18 @@
     }
   ],
   "customer": [
+    {
+      "name": "truong",
+      "phone": 345632,
+      "mail": "truong@gamil.com",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "truong",
+      "passWord": "123456"
+    }
   ]
 }
